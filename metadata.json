@@ -1,0 +1,6 @@
+{
+  "name": "KINETIX Performance Club",
+  "description": "Elite athletic performance center and training club. Olympic-grade strength facilities, biomechanics coaching, and advanced recovery suites.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
